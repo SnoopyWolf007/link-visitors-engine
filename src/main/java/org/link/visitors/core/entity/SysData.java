@@ -35,4 +35,7 @@ public class SysData {
 
     @TableField("name")
     private String name;
+
+    @TableField("gender")
+    private Integer gender;
 }
