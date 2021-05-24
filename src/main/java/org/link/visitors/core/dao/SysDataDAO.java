@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.link.visitors.core.entity.SysData;
 
 /**
- * @author changming.jiang
+ * @author link-kit
  */
 public interface SysDataDAO extends BaseMapper<SysData> {
 }

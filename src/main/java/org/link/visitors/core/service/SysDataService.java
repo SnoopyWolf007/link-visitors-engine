@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import org.link.visitors.core.entity.SysData;
 
 /**
- * @author changming.jiang
+ * @author link-kit
  */
 public interface SysDataService extends IService<SysData> {
 }

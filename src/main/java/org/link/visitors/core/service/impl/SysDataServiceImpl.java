@@ -7,7 +7,7 @@ import org.link.visitors.core.service.SysDataService;
 import org.springframework.stereotype.Service;
 
 /**
- * @author changming.jiang
+ * @author link-kit
  */
 @Service
 public class SysDataServiceImpl extends ServiceImpl<SysDataDAO, SysData> implements SysDataService {

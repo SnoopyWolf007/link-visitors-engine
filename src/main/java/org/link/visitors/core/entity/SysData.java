@@ -6,7 +6,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 
 /**
- * @author changming.jiang
+ * @author link-kit
  */
 @Data
 @TableName("sys_data")
